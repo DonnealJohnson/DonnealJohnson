@@ -1,5 +1,5 @@
 # About Me:
-- 👋 Hi, I’m @DonnealJohnson. I am a front-end web developer with a strong passion for becoming a full-stack developer, dedicated to building efficient and scalable web applications. 
+- 👋 Hi, I’m Donneal Johnson. I am a front-end web developer with a strong passion for becoming a full-stack developer, dedicated to building efficient and scalable web applications. 
 I take pride and joy in continuously improving my skills and strive to enhance my expertise every day.
 
 ## What I Do:
